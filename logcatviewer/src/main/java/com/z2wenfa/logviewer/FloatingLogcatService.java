@@ -1,4 +1,4 @@
-package com.weijiaxing.logviewer;
+package com.z2wenfa.logviewer;
 
 
 import android.annotation.SuppressLint;
@@ -26,6 +26,8 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Spinner;
+
+import com.com.z2wenfa.logviewer.R;
 
 import java.io.BufferedReader;
 import java.io.File;

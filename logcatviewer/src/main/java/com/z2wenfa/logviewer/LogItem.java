@@ -1,8 +1,10 @@
-package com.weijiaxing.logviewer;
+package com.z2wenfa.logviewer;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.support.annotation.ColorRes;
+
+import com.com.z2wenfa.logviewer.R;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

@@ -15,7 +15,7 @@
         tools:ignore="GoogleAppIndexingWarning">
 
         <provider
-            android:name="com.weijiaxing.logviewer.LogcatFileProvider"
+            android:name="com.z2wenfa.logviewer.LogcatFileProvider"
             android:authorities="${applicationId}.logcat_fileprovider"
             android:exported="false"
             android:grantUriPermissions="true">
@@ -25,7 +25,7 @@
         </provider>
 
 
-        <activity android:name=".MainActivity">
+        <activity android:name="com.z2wenfa.logcatwidget.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -34,9 +34,9 @@
         </activity>
 
 
-        <activity android:name=".ui.UseFloatingLogcatServiceActivity" />
+        <activity android:name="com.z2wenfa.logcatwidget.ui.UseFloatingLogcatServiceActivity" />
 
-        <activity android:name=".ui.UseLogcatActivity" />
+        <activity android:name="com.z2wenfa.logcatwidget.ui.UseLogcatActivity" />
 
     </application>
 

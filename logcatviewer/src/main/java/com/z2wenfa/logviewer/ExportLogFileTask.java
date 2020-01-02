@@ -1,4 +1,4 @@
-package com.weijiaxing.logviewer;
+package com.z2wenfa.logviewer;
 
 
 import android.os.AsyncTask;

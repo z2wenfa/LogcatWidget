@@ -1,4 +1,4 @@
-package com.weijiaxing.logcatviewer.common;
+package com.z2wenfa.logcatwidget.common;
 
 public class Constant {
 

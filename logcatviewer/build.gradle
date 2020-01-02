@@ -46,7 +46,7 @@ uploadArchives {
     repositories {
         mavenDeployer {
             repository(url: "file://" + projectDir + "/../maven")
-            pom.groupId = 'com.weijiaxing.logviewer'
+            pom.groupId = 'com.com.z2wenfa.logviewer'
             pom.artifactId = 'library'
             pom.version = android.defaultConfig.versionName
         }

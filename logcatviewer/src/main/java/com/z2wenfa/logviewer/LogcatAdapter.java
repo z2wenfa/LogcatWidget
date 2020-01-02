@@ -1,4 +1,4 @@
-package com.weijiaxing.logviewer;
+package com.z2wenfa.logviewer;
 
 
 import android.support.annotation.Nullable;
@@ -9,6 +9,8 @@ import android.widget.BaseAdapter;
 import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.TextView;
+
+import com.com.z2wenfa.logviewer.R;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

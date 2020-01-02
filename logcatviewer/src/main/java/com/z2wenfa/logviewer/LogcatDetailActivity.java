@@ -1,4 +1,4 @@
-package com.weijiaxing.logviewer;
+package com.z2wenfa.logviewer;
 
 
 import android.content.Context;
@@ -11,6 +11,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+import com.com.z2wenfa.logviewer.R;
 
 import java.text.SimpleDateFormat;
 import java.util.Locale;

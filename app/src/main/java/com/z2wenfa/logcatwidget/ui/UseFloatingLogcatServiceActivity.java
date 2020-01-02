@@ -1,4 +1,4 @@
-package com.weijiaxing.logcatviewer.ui;
+package com.z2wenfa.logcatwidget.ui;
 
 import android.app.AppOpsManager;
 import android.content.ActivityNotFoundException;
@@ -13,7 +13,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import com.weijiaxing.logcatviewer.R;
-import com.weijiaxing.logviewer.FloatingLogcatService;
+import com.z2wenfa.logviewer.FloatingLogcatService;
 
 import java.lang.reflect.Method;
 

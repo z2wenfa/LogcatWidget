@@ -1,4 +1,4 @@
-package com.weijiaxing.logviewer;
+package com.z2wenfa.logviewer;
 
 
 import android.support.v4.content.FileProvider;

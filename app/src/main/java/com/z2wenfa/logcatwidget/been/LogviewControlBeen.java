@@ -1,4 +1,4 @@
-package com.weijiaxing.logcatviewer.been;
+package com.z2wenfa.logcatwidget.been;
 
 public class LogviewControlBeen {
     /**

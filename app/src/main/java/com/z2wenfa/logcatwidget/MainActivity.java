@@ -1,4 +1,4 @@
-package com.weijiaxing.logcatviewer;
+package com.z2wenfa.logcatwidget;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,8 +6,9 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-import com.weijiaxing.logcatviewer.ui.UseFloatingLogcatServiceActivity;
-import com.weijiaxing.logcatviewer.ui.UseLogcatActivity;
+import com.weijiaxing.logcatviewer.R;
+import com.z2wenfa.logcatwidget.ui.UseFloatingLogcatServiceActivity;
+import com.z2wenfa.logcatwidget.ui.UseLogcatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
